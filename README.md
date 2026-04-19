@@ -57,7 +57,7 @@
 2. Скачайте нужный `.ipa`.
 3. Нажмите на файл -> **Поделиться (Share)** -> **TrollStore**.
 4. Нажмите **Install**. Поздравляем, игра установлена навсегда!
-  <a href="https://t.me/Installipa/5">
+  <a href="https://t.me/Ki1oFarsh/5">
     <img src="https://img.shields.io/badge/СМОТРЕТЬ-ВИДЕО_ГАЙД-blue?style=for-the-badge&logo=telegram" alt="Video Guide">
   </a>
 </p>
