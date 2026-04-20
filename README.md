@@ -37,7 +37,7 @@
 | v1.21.01 | **Plague Inc.** | Strategy |
 | v7.9.6 | **Angry Birds Classic** | Casual |
 | - | **Doodle Jump 2+** | Casual |
-| v1 | **Flappy Bird** | Casual |
+| v4.3 | **Flappy Bird** | Casual |
 
 ---
 
