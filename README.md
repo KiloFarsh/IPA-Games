@@ -38,6 +38,7 @@
 | v7.9.6 | **Angry Birds Classic** | Casual |
 | - | **Doodle Jump 2+** | Casual |
 | v4.3 | **Flappy Bird** | Casual |
+| v1.1.6 | **Altos Odyssey Remastered** | Arcade |
 
 ---
 
